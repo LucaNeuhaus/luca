@@ -3,7 +3,7 @@ title = "Canvas für Plüschtierladen"
 date = "2022-08-30"
 draft = true
 pinned = false
-description = "Geschäftsmodell für einen Plüschtierladen"
+description = "Lernblog für den Kurs WEB Teil 2 Geschäftsmodell für einen Plüschtierladen"
 +++
 Ich habe heute zusammen mit Yves ein Canvas-Modell für einen Plüschtierladen erstellt. Da wir beide sehr untalentiert sind, was vermarktbare Güter betrifft, haben wir uns dazu entschieden, etwas zu erfinden, das wir nicht umsetzen werden. 
 
