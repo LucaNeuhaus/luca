@@ -1,7 +1,7 @@
 +++
 title = "Canvas für Plüschtierladen"
 date = "2022-08-30"
-draft = true
+draft = false
 pinned = false
 description = "Lernblog für den Kurs WEB Teil 2 Geschäftsmodell für einen Plüschtierladen"
 +++
