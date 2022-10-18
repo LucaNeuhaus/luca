@@ -3,9 +3,9 @@ title = "Sortiment für unseren Plüschtierladen"
 date = "2022-09-20"
 draft = false
 pinned = false
-image = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp2078599.jpg&f=1&nofb=1"
+image = "https://bw-1651cf0d2f737d7adeab84d339dbabd3-gallery.s3.amazonaws.com/images/image_2720700/7ee2d21846726bae0847c6f64b6a3969_original.jpg"
 description = "Um mit unserem Plüschtierladen Erfolg zu haben, bereiteten wir eine Strassenumfrage vor. Wir suchten 8 Figuren aus bekannten Videospielen aus, um diese bewerten zu lassen."
-footnotes = "Q﻿uelle Hog Rider: <https://wallpapercave.com/wp/wp2078599.jpg>"
+footnotes = "Q﻿uelle Hog Rider: https://bw-1651cf0d2f737d7adeab84d339dbabd3-gallery.s3.amazonaws.com/images/image_2720700/7ee2d21846726bae0847c6f64b6a3969_original.jpg"
 +++
 Der Hog Rider aus den Supercellspielen﻿, die Figuren von Animal Crossing, die Vögel und Schweine von Angrybirds sind Figuren aus absoluten Videospielklassikern. Diese und mehr werden wir bald in unserem Webshop anbieten.
 
