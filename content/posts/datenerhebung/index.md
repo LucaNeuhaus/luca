@@ -3,6 +3,7 @@ title = "Datenerhebung"
 date = "2022-11-01"
 draft = false
 pinned = false
+image = "th-2364361406"
 description = "Nach der Kreierung unserer Umfrage war es an der Zeit, diese auch durchzuführen. Dies haben wir heute gemacht."
 +++
 L﻿etzte Woche haben wir die Plüschtiere gesucht, die wir in unserer Umfrage zur Wahl stellen wollen. Nun war also die Zeit gekommen, diese Umfrage durchzuführen und die Daten auszuwerten.
