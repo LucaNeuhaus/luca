@@ -3,7 +3,7 @@ title = "Marketingstrategie für unseren Plüschtierladen"
 date = "2022-12-13"
 draft = false
 pinned = false
-image = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwidegroup.net%2Fwp-content%2Fuploads%2F2015%2F01%2Fmarketing.jpg&f=1&nofb=1&ipt=1218bb0ce54048acb718d7484cef4e28a139bb06abc1d04785b3562792d06a0e&ipo=images"
+image = "marketing.jpg"
 description = "Den bestmöglichen Erfolg erreicht man mit der besten Marketingstrategie. Hier veröffentlichen wir unsere Strategie."
 footnotes = "Q﻿uellen:\n\n<https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwidegroup.net%2Fwp-content%2Fuploads%2F2015%2F01%2Fmarketing.jpg&f=1&nofb=1&ipt=1218bb0ce54048acb718d7484cef4e28a139bb06abc1d04785b3562792d06a0e&ipo=images>"
 +++
