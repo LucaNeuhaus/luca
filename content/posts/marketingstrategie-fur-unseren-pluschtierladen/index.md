@@ -23,6 +23,6 @@ W﻿ir versuchen also, gezielt eine gewisse Zielgruppe auszumachen und diese dan
 
 D﻿och gute Werbeplattformen sind nicht alles. Wie die Werbung aufgebaut ist, spielt auch eine Rolle. Wir haben uns dazu entschieden, eine bekannte Werbung einer dieser Figuren zu parodieren. Folgendes ist dabei herausgekommen:
 
-
+<https://www.youtube.com/watch?v=q5LFSFCHVMU>
 
 I﻿hr könnt uns gerne auf allen oben genannten Plattformen folgen.
