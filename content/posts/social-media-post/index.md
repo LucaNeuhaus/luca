@@ -16,7 +16,7 @@ Das Beste daran? Jeder Kauf unterstützt unseren Beitrag zum Umweltschutz. Wir p
 
 Schau dir jetzt unser Erklärvideo an und lass dich von der Magie unserer Plüschtiere verzaubern! ✨✨
 
-Hier kannst du das Erklärvideo ansehen: <https://www.youtube.com/watch?v=BGsPAgAcelk>
+Hier kannst du das Erklärvideo ansehen: [](https://www.youtube.com/watch?v=BGsPAgAcelk)<https://www.youtube.com/watch?v=eK3-RUvTHMQ>
 
 Vergiss nicht, den Beitrag mit deinen Freunden zu teilen, damit auch sie unsere Mission unterstützen können. Gemeinsam können wir eine positive Veränderung bewirken! 🌟🤝
 
